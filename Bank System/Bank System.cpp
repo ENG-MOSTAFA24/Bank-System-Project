@@ -27,15 +27,6 @@ int main()
 		}
 	}
 
-	//clsCurrency Currency1 = clsCurrency::FindByCode("egp");
-	//PrintCurrencyCard(Currency1);
-
-	//clsCurrency Currency2 = clsCurrency::FindByCountry("egypt");
-	//PrintCurrencyCard(Currency2);
-
-	//Currency2.UpdateRate(50);
-	//PrintCurrencyCard(Currency2);
-
 	system("pause>0");
 
 	return 0;
