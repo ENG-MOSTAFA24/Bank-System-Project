@@ -1,0 +1,28 @@
+﻿  Bank System.cpp
+D:\Abo-Hadhoud Courses\Course 11\Bank System\Bank System\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Abo-Hadhoud Courses\Course 11\Bank System\Bank System\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Abo-Hadhoud Courses\Course 11\Bank System\Bank System\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Abo-Hadhoud Courses\Course 11\Bank System\Bank System\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Abo-Hadhoud Courses\Course 11\Bank System\Bank System\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Abo-Hadhoud Courses\Course 11\Bank System\Bank System\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Abo-Hadhoud Courses\Course 11\Bank System\Bank System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Abo-Hadhoud Courses\Course 11\Bank System\Bank System\clsTotalBalancesScreen.h(59,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+D:\Abo-Hadhoud Courses\Course 11\Bank System\Bank System\clsBankClient.h(332,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\Abo-Hadhoud Courses\Course 11\Bank System\Bank System\clsUsers.h(291,1): warning C4715: 'clsUsers::Save': not all control paths return a value
+  Bank System.vcxproj -> D:\Abo-Hadhoud Courses\Course 11\Bank System\x64\Debug\Bank System.exe
