@@ -25,7 +25,7 @@ This project was built specifically to apply and reinforce the four pillars of O
 
 | Concept | How it's used |
 |---|---|
-| **Encapsulation** | Client and User data (account number, balance, PIN, permissions, etc.) is kept private inside classes and accessed only through getters/setters and controlled methods. |
+| **Data Hiding** | Client and User data (account number, balance, PIN, permissions, etc.) is kept private inside classes and accessed only through getters/setters and controlled methods. |
 | **Inheritance** | Every screen in the system is modeled as its own class, and shared behavior (reading/writing files, printing UI, navigation) is placed in base classes that each screen class inherits from. |
 | **Polymorphism** | Common screen operations (e.g., `showScreen()`, `execute()`) are overridden per screen class, allowing each screen to define its own behavior while being handled through a shared interface. |
 | **Constructors** | Used extensively to initialize `Client`, `User`, and `Screen`-based objects safely and consistently, avoiding manual/duplicate setup code. |
