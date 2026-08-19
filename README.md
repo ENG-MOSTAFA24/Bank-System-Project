@@ -114,7 +114,7 @@ Ends the current session and returns to the Login Screen without terminating the
 | `TransferLog.txt` | Stores a history of all transfer transactions. |
 | `LoginRegister.txt` | Stores a history of all login attempts. |
 
-> ⚠️ These files must exist in the same directory as the executable for the program to run correctly. `Users.txt` in particular is required — without at least one valid user, no one can log in.
+
 
 ---
 
